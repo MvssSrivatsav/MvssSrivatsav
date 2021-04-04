@@ -3,12 +3,10 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on participating hackathons,events and designing
 - 📫 How to reach me Email: srivatsav269@gmail.com
-
-[![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com) 
+ 
 <table>
   <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/Sandeep-BlackHat/count.svg" alt="vistor count" height="50" /></td>
+    <td><img src= alt="vistor count" height="50" /></td>
   </tr>
 </table>
 <img src = 'https://capsule-render.vercel.app/api?type=wave&color=000000&height=150&section=footer&text=Veni,%20Vidi,%20Vici&fontSize=100&animation=blinking&fontColor=00FF00'/>
