@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Srivatsav2001
-- 👀 I’m interested in web development,C 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on participating hackathons,events and designing
-- 📫 How to reach me Email: srivatsav269@gmail.com
+- 👀 I’m interested in web development and ML
+- 🌱 I’m currently into coding and a learner
+- 💞️ I’m looking to collaborate on participating in hackathons,events and designing
+
  
 
 <!---
