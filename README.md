@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Srivatsav2001
-- 👀 I’m interested in web development and ML
-- 🌱 I’m currently into coding and a learner
-- 💞️ I’m looking to collaborate on participating in hackathons,events and designing
+- 👀 I’m working on web development and AI-ML
+- 🌱Pursuing B.Tech in SRM University
+- 
 
  
 
