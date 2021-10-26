@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Srivatsav Phani Mallavarapu 
+# Hi, I'm Srivatsav Phani Mallavarapu 👋🏾 👩🏾‍💻
 - 👀 I’m working on web development and AI-ML
 - 🌱Pursuing B.Tech in SRM University
 - #30DaysofGoogleCloud: https://www.cloudskillsboost.google/public_profiles/ae5972a7-ca4b-4430-91f6-9a1f0934ca92
