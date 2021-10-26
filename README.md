@@ -4,7 +4,7 @@
 - 👀 I’m working on web development and AI-ML
 - 🌱Pursuing B.Tech in SRM University
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srivatsav2001&langs_count=15)]
  
 
 <!---
