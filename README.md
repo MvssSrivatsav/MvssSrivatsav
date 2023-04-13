@@ -17,13 +17,6 @@
 <br>
   
 <br>
-<img src='https://github-readme-stats.vercel.app/api?username=Srivatsav2001&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" /><br>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Srivatsav2001&theme=tokyonight&hide_langs_below=4' align="middle" /><br>
-<br>
-<br>
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Srivatsav2001" alt="Srivatsav2001" /></a> </p>
-<br>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Srivatsav2001&%22%20alt=%22skjha1" /></p>
 <h2 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h2>
 <h2 align=center> 🤝Let's get connected!</h2> <br>
 <p align = 'center'>
