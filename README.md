@@ -3,7 +3,7 @@
 <p align='center'><h1 align='center'>👩‍💻A Little about Myself<br></h1>
 	 <ul><strong>
 <p align='center'><h1 align='center'> MY PORTFOLIO: https://mvsssrivatsav.github.io/Srivatsav.github.io/ </h1> 
-	<h1 align='center'> INProgress: https://framer.com/projects/Srivatsav-s-Portfolio--voKx3g8Zo1fmjnpg3nwB-gzbdC </h1>
+	<h1 align='center'> INProgress: https://sm-infocepts.framer.ai/ </h1>
   <li>🌱Pursuing B.Tech in SRM University</li>
 	<li><img src="https://css-tricks.com/wp-content/uploads/2015/03/flickity.gif" height=35 width=35> I’m working on Web Development and AI-ML using various tools like HTML, CSS and API's.👀 </li>
 	<li><img src="https://media.tenor.com/images/e3b526d8c4a8fa8ce985a1475a2052c1/tenor.gif" height=35 width=35><span> I’m currently working on Coding skills</span></li>
