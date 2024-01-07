@@ -24,7 +24,7 @@
 <p align = 'center'>
 <a href = https://github.com/Srivatsav2001 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='45' weight='45'/></a>
 <a href = https://www.linkedin.com/in/srivatsav-phani-mallavarapu-650204197/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='45' weight='45'/></a> 
-<a href = https://www.instagram.com/srivatsav_2609 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='45' weight='45'/></a>
+<a href = https://www.instagram.com/_m.v.s.s.s_?igsh=YWk1MGh6OXV1NGFr target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='45' weight='45'/></a>
 </a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Srivatsav2001" alt="Srivatsav" /> </p>
 
