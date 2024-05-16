@@ -10,7 +10,7 @@
   <li>🌱 Pursued B.Tech-CSE in SRM University</li>
 	<li><img src="https://css-tricks.com/wp-content/uploads/2015/03/flickity.gif" height=35 width=35> I’m into Web Development and likes the work on Big Data and Cloud Computing using various tools like HTML, CSS, JS ; OS Systems ; Hadoop ; AWS Services and API's.👀 </li>
 	
-	<li><img src="https://media.tenor.com/images/f38e928f2a6c074324a48bf161603271/tenor.gif" height=35 width=35> <span> At present I'm learning how to use different approaches of styling a website and focusing on Big Data and Cloud computing as well.</span></li>
+<li><img src="https://media.tenor.com/images/f38e928f2a6c074324a48bf161603271/tenor.gif" height=35 width=35> <span> At present I'm learning how to use different approaches of styling a website and focusing on Big Data and Cloud computing as well.</span></li>
 	<li><img src="https://media.tenor.com/images/798da9f756994c9adc0444c214801e3e/tenor.gif" height=35 width=35><span> I’m looking forward to collaborate on Projects, Coding Challenges and Hackathons.</span></li>
 	<li><img src="https://c.tenor.com/KKrn7yg0iXAAAAAj/joe-biden-biden.gif" height=35 width=35><span> I used to be a part of an Online Tech Community named LogicPlay with 200+ members which has immense network towards various Technologies which come within 4.0.</span></li>
 	<li><img src="https://media.tenor.com/images/dcf6ddd99688a8d3228580881953fc09/tenor.gif" height=35 width=35><span> Reach me out for Gaming and Project/Hackathon collaboration.</span></li>
