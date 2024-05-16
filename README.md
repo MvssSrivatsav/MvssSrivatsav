@@ -5,6 +5,7 @@
 <p align='center'><h1 align='center'> MY PORTFOLIO: https://mvsssrivatsav.github.io/Srivatsav.github.io/ </h1> 
 	<h1 align='center'> 
 		INProgress: In progress yet to deploy </h1>
+  <li><img src="https://www.flaticon.com/free-icon/working_4727424" height=35 width=35> Currently working in Cognizant as Programmer Analyst since 2023 December </li>
   <li>🌱 Pursued B.Tech-CSE in SRM University</li>
 	<li><img src="https://css-tricks.com/wp-content/uploads/2015/03/flickity.gif" height=35 width=35> I’m into Web Development and likes the work on Big Data and Cloud Computing using various tools like HTML, CSS, JS ; OS Systems ; Hadoop ; AWS Services and API's.👀 </li>
 	<li><img src="https://media.tenor.com/images/e3b526d8c4a8fa8ce985a1475a2052c1/tenor.gif" height=35 width=35><span> I’m currently working in ICP-Java branch, Cognizant</span></li>
