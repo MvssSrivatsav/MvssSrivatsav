@@ -2,7 +2,7 @@
 <p align='center'><h1 align='center'>Hi, I'm Srivatsav Phani Mallavarapu 👋🏾 👩🏾‍💻</h1>
 <p align='center'><h1 align='center'>👩‍💻A Little about Myself<br></h1>
 	 <ul><strong>
-<p align='center'><h1 align='center'> MY PORTFOLIO: [https://mvsssrivatsav.github.io/Srivatsav.github.io/](https://mvsssrivatsav.github.io/Dark-Portfolio/) </h1> 
+<p align='center'><h1 align='center'> MY PORTFOLIO: https://mvsssrivatsav.github.io/Dark-Portfolio/ </h1> 
 	<h1 align='center'> 
 		INProgress: In progress yet to deploy </h1>
 	<li><img src="https://media.tenor.com/images/e3b526d8c4a8fa8ce985a1475a2052c1/tenor.gif" height=35 width=35><span> I worked in ICP-Java branch, Cognizant and Currently working as Programmer Analyst since 2023 December</span></li>
