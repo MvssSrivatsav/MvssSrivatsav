@@ -1,44 +1,30 @@
-
-<p align='center'><h1 align='center'>Hi, I'm Srivatsav Phani Mallavarapu 👋🏾 👩🏾‍💻</h1>
-<p align='center'><h1 align='center'>👩‍💻A Little about Myself<br></h1>
-	 <ul><strong>
-<p align='center'><h1 align='center'> MY PORTFOLIO: https://mvsssrivatsav.github.io/Dark-Portfolio/ </h1> 
-	<h1 align='center'> 
-		INProgress: In progress yet to deploy </h1>
-	<li><img src="https://media.tenor.com/images/e3b526d8c4a8fa8ce985a1475a2052c1/tenor.gif" height=35 width=35><span> I worked in ICP-Java branch, Cognizant and Currently working as Programmer Analyst since 2023 December</span></li>
-  
-  <li>🌱 Pursued B.Tech-CSE in SRM University</li>
-	<li><img src="https://css-tricks.com/wp-content/uploads/2015/03/flickity.gif" height=35 width=35> I’m into Web Development and likes the work on Big Data and Cloud Computing using various tools like HTML, CSS, JS ; OS Systems ; Hadoop ; AWS Services and API's.👀 </li>
-	
-<li><img src="https://media.tenor.com/images/f38e928f2a6c074324a48bf161603271/tenor.gif" height=35 width=35> <span> At present I'm learning how to use different approaches of styling a website and focusing on Big Data and Cloud computing as well.</span></li>
-	<li><img src="https://media.tenor.com/images/798da9f756994c9adc0444c214801e3e/tenor.gif" height=35 width=35><span> I’m looking forward to collaborate on Projects, Coding Challenges and Hackathons.</span></li>
-	<li><img src="https://c.tenor.com/KKrn7yg0iXAAAAAj/joe-biden-biden.gif" height=35 width=35><span> I used to be a part of an Online Tech Community named LogicPlay with 200+ members which has immense network towards various Technologies which come within 4.0.</span></li>
-	<li><img src="https://media.tenor.com/images/dcf6ddd99688a8d3228580881953fc09/tenor.gif" height=35 width=35><span> Reach me out for Gaming and Project/Hackathon collaboration.</span></li>
-	<li><span><img src="https://c.tenor.com/ik-NNXKi_0sAAAAj/took-selfies-selfie-hand.gif" height=35 width=35><em>Not interested in taking selfies</em><b> but a nature lover and photographer. </b></span></li>
-  <li><span><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="35" width="35" /> #30DaysofGoogleCloud: https://www.cloudskillsboost.google/public_profiles/ae5972a7-ca4b-4430-91f6-9a1f0934ca92 </span></li>
-  <li><span><img src="https://media.tenor.com/images/f38e928f2a6c074324a48bf161603271/tenor.gif" height=35 width=35> Problem Solving (Basic): https://www.hackerrank.com/certificates/c847fc55836b </span></li>
-</strong></ul>
-<br>
-  
-<br>
-<h2 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h2>
-<h2 align=center> 🤝Let's get connected!</h2> <br>
-<p align = 'center'>
-<a href = https://github.com/Srivatsav2001 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='45' weight='45'/></a>
-<a href = https://www.linkedin.com/in/srivatsav-phani-mallavarapu-650204197/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='45' weight='45'/></a> 
-<a href = https://www.instagram.com/_m.v.s.s.s_?igsh=YWk1MGh6OXV1NGFr target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='45' weight='45'/></a>
-</a>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Srivatsav2001" alt="Srivatsav" /> </p>
+# 💫 About Me:
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/cCTSQFh39Y) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_m.v.s.s.s_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/srivatsav-phani-mallavarapu-650204197/) 
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MvssSrivatsav&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MvssSrivatsav&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MvssSrivatsav&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MvssSrivatsav&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MvssSrivatsav&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
+---
+[![](https://visitcount.itsvg.in/api?id=MvssSrivatsav&icon=1&color=12)](https://visitcount.itsvg.in)
 
-<!---
-Srivatsav2001/Srivatsav2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
